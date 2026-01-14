@@ -16,7 +16,7 @@ All of this can be done with a simple, easy-to-use interface.
 
 #----How the Project Works (2 Main Steps)------
 
-Step 1: Build the MySQL Database
+----Step 1: Build the MySQL Database-----
 
 We’ll design a smart database that includes:
 
@@ -29,7 +29,7 @@ Functions:- For business calculations (e.g., check if a product needs restocking
 This step simulates how businesses store and organize data with rules built into the database.
 
 
-Step 2: Build the Streamlit Frontend
+-----Step 2: Build the Streamlit Frontend----
 
 Next, we’ll create a web interface using Streamlit that allows users to:
 
